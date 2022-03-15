@@ -1,0 +1,44 @@
+enable  : true
+title   : Education
+members  :
+  - image       : images/team/HC.png
+    name        : CUNY - Hunter College
+    designation : Master's degree in Psychology
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/Hosei.png
+    name        : Hosei University 
+    designation : Bachelor's degree in Psychology
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/Udacity.png
+    name        : Udacity
+    designation : Data Scientist Nanodegree
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/Udacity.png
+    name        : Udacity
+    designation : Data Analyst Nanodegree
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/Udemy.png
+    name        : Udemy
+    designation : PostgresSQL
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/Udemy.png
+    name        : Udemy
+    designation : Machine Learning
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/

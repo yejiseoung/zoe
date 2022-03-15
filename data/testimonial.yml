@@ -1,0 +1,39 @@
+enable  : true
+title   : "Skills"
+subtitle: "As a data scientist and data analyst, I translate data into meaningful and comprehensible insights. My goal is to improve results, make the right decisions, data-driven decisions and save costs."
+testimonial_item :
+  - thumb : "images/testimonial/collection.png"
+    name  : "Collect"
+    company_position: "Postgres, BeautifulSoup, API, Qualtrics, MTurk"
+    quote : > 
+            "Web scraping,  manipulate experimental or questionnaire design and worked with Qualtrics and MTurk to collect data"  
+
+  - thumb : "images/testimonial/process.png"
+    name  : "Process"
+    company_position: "Python, Pandas, NumPy"
+    quote : > 
+            "Data wrangling, cleaning, reshaping to prepare data analysis and automated workflows" 
+
+  - thumb : "images/testimonial/analysis.png"
+    name  : "Analysis"
+    company_position: "Scikit-learn, Feature-engine, SPSS"
+    quote : > 
+            "Data exploration, application of statistical methods, getting more value from your data" 
+
+  - thumb : "images/testimonial/visualization.png"
+    name  : "Visualization"
+    company_position: "Matplotlib, Seaborn, Tableau"
+    quote : > 
+            "Creating static and interactive visualization, and telling a story with dashboards" 
+
+  - thumb : "images/testimonial/ML.png"
+    name  : "Machine Learning"
+    company_position: "Git, AWS, PyTorch, imblearn, Supervised ML, Unsupervised ML, Custering"
+    quote : > 
+            "Building machine learning models and pipeline for prediction based upon historical data" 
+
+  - thumb : "images/testimonial/deployment.png"
+    name  : "Deployment"
+    company_position: "REST API, Heroku, Docker"
+    quote : > 
+            "Packaging the model for production, serving and deploying the model via REST API using heroku and docker" 

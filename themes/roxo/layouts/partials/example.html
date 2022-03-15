@@ -1,0 +1,23 @@
+{{ with .Site.Data.example }}
+  {{ if .enable }}
+  <section class="site-example-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="site-about-wrapper">
+            <h2 class="text-white">{{ .heading }}</h2>
+          </div>
+        </div>
+        {{ range .counter_item }}
+        <div class="col-lg-3 col-md-6">
+          <div class="site-counter-item">
+            <span class="site-counter-item-title">{{ .title }}</span>
+            <h3 class="site-counter-item-number">{{ .number }}+</h3>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

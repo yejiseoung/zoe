@@ -1,0 +1,23 @@
+.site-education{
+    padding: 100px 0;
+    background: $gray;
+    &-header{
+        padding: 80px 0;
+        background: $gray;
+    }
+    &-description{
+        width: 60%;
+        padding-left: 50px;
+        @include desktop{
+            width: 100%;
+            padding: 0 38px;
+        }
+        p{
+            font-size: 25px;
+            font-weight: 300;
+            margin-bottom: 0;
+        ]
+    }
+
+    }
+}

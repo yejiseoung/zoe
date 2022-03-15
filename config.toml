@@ -1,0 +1,114 @@
+baseURL       = "https://yejiseoung.github.io/zoe/"
+languageCode  = "en-us"
+title         = "Roxo | Creative Design Agency"
+theme         = "roxo"
+summarylength = 25
+
+relativeURLs = true
+canonifyURLs = true
+
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "Projects"
+    url     = "portfolio"
+    weight  = 2
+
+  [[menu.nav]]
+    name    = "About Me"
+    url     = "about"
+    weight  = 3
+  
+
+  [[menu.nav]]
+    name    = "Get in touch"
+    url     = "mailto:yejiseoung.ds@gmail.com"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/name1.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "First Name"
+    placeholder_last_name         = "Last Name"
+    placeholder_email             = "Email"
+    placeholder_project_type      = "Project Type"
+    placeholder_about_the_project = "About the Project"
+    send_message                  = "Send Message"
+
+    [[params.contactForm.projectType]]
+      value = "gd"
+      title  = "Graphics Design"
+    [[params.contactForm.projectType]]
+      value = "wd"
+      title  = "Web Design"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/background1.jpg"
+    heading               = "Zoe Yeji Seoung"
+    tagline               = "Data Scientist | Data Analyst"
+    primary_button        = "Github"
+    primary_button_url    = "https://github.com/yejiseoung"
+    secondary_button      = "LinkedIn"
+    secondary_button_url  = "https://www.linkedin.com/in/yeji-seoung-ab3534217/"
+
+  [params.portfolio]
+    enable    = true
+    title     = "RECENT PROJECTS"
+    subtitle  = "I am experienced in machine learning, supervised and unsupervised algorithms, use data visualization techniques to present the results and deploy model productions."
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "LET’S WORK TOGETHER"
+    primary_button      = "Get in touch"
+    primary_button_url  = "yejiseoung.ds@gmail.com"
+    secondary_button    = "LinkedIn"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Feel free reach out to me"
+      here = "Email"
+      email   = "yejiseoung.ds@gmail.com"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Contact"
+        [[params.footer.sitemap.link]]
+          name = "Github"
+          url  = "https://github.com/yejiseoung"
+        [[params.footer.sitemap.link]]
+          name = "LinkedIn"
+          url  = "https://www.linkedin.com/in/yeji-seoung-ab3534217/"
+        [[params.footer.sitemap.link]]
+          name = "Medium"
+          url  = "https://medium.com/@yejizoeseoung"
+        
+      
+      
