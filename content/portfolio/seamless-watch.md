@@ -10,6 +10,6 @@ project_images: ["images/projects/tmdb_target.png", "images/projects/tmdb_p2.png
 GO TO [GITHUB](https://github.com/yejiseoung/TMDB)
 
 
-Spending a lot of money on creating a movie does not gaurantee that they can get a lot of revenue from the movie. Even though it costed 220 million USD to create The Avengers, they made 150 million USD. The cost for making Rocky was 1 million USD, but they brought in 117.2 million USD. Then, how can we predict the movie revenue?
+Spending a lot of resources on creating a movie does not gaurantee a lot of revenue generated from the movie release. Even though it costed 200 million dollars to create "Mulan", it only made 70 million dollars. The cost for making "Rocky" was 1 million dollars, but box office proceeds were in 117.2 million dollars. Then, how can we predict movie revenue?
 
-In this project, I built a machine learning model to predict movie revenue by analyzing [TMDB Box Office dataset](https://www.kaggle.com/c/tmdb-box-office-prediction/data). `I used lightGBM to build the model and got 1.96 RMSLE score.`
+In this project, I built a machine learning model to predict movie revenue by analyzing [TMDB Box Office dataset](https://www.kaggle.com/c/tmdb-box-office-prediction/data). `I used lightGBM to build the model and got a 1.96 RMSLE score.`

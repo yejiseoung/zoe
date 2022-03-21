@@ -10,10 +10,10 @@ project_images: ["images/projects/project-details-image-nine.png", "images/proje
 ##### GO TO [GITHUB](https://github.com/yejiseoung/NoShow_medical_appointment)
 
 
-The project goal was to investigate No-Show-Medical-Appointments data. 
+The project goal was to investigate No-Show-Medical-Appointments dataset. 
 
-It would be very inefficient if there are many patients would not show up on their scheduled time. Therefore, it would be nice to investigate whether there is any differences between people show up on scheduled time and those do not. 
+It would be very inefficient and inconvenient if many patients did not show up for their scheduled appointments. Therefore, it would be nice to analyze and predict differences between those who did and did not show for their scheduled appointments. 
 
-I explored the dataset which contains 100,527 medical appointments with 14 variables (features) by creating several visualizations. 
+I explored the dataset which contains 100,527 medical appointments with 14 variables (features) and created several visualizations showing results. 
 
-Based on the visualizations, I found that SMS reminders to no-show patients would help them keep scheduled time. Also, 10's and 20's are more likely to not show up on schedule time. 
+Based on the visualizations, I found that SMS reminders to no-show patients would help them keep their scheduled appointment. Also, those in their teens and 20's are more likely to not show up on scheduled appointment. 

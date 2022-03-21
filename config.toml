@@ -80,7 +80,7 @@ canonifyURLs = true
   [params.portfolio]
     enable    = true
     title     = "RECENT PROJECTS"
-    subtitle  = "I am experienced in machine learning, supervised and unsupervised algorithms, use data visualization techniques to present the results and deploy model productions."
+    subtitle  = "Experience in machine learning, supervised & unsupervised algorithms, utilizing data visualization techniques to present results, and deploying model productions."
 
   [params.call_to_action]
     enable              = true
