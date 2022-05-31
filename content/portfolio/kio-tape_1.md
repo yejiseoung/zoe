@@ -7,7 +7,7 @@ category: ["Classification, Imbalanced, EasyEnsemble"]
 project_images: ["images/projects/project-details-image-seven.png", "images/projects/project-details-image-eight.png"]
 ---
 
-##### GO TO [GITHUB](https://github.com/yejiseoung/BankMarketing)
+##### GO TO [GITHUB](https://github.com/zoeßyejiseoung/BankMarketing)
 
 
 The main goal of this project is to build a machine learning model that predicts if the client will subscribe to a term deposit (variable y). 

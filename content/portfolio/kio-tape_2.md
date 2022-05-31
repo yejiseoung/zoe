@@ -7,7 +7,7 @@ category: ["Data Analysis, Visualization"]
 project_images: ["images/projects/project-details-image-nine.png", "images/projects/project-details-image-ten.png"]
 ---
 
-##### GO TO [GITHUB](https://github.com/yejiseoung/NoShow_medical_appointment)
+##### GO TO [GITHUB](https://github.com/zoeyejiseoung/NoShow_medical_appointment)
 
 
 The project goal was to investigate No-Show-Medical-Appointments dataset. 

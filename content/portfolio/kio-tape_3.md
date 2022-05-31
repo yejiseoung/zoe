@@ -7,7 +7,7 @@ category: ["Data Analysis, Visualization"]
 project_images: ["images/projects/project-details-image-one-one.png", "images/projects/project-details-image-one-two.png"]
 ---
 
-##### GO TO [GITHUB](https://github.com/yejiseoung/Telco_ChurnCustomers)
+##### GO TO [GITHUB](https://github.com/zoeyejiseoung/Telco_ChurnCustomers)
 
 
 I explored `Telco Cusomter Churn` dataset containing 7043 customers’ demographic information, customer's account information, and services that customers have signed up for. 

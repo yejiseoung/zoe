@@ -7,7 +7,7 @@ category: ["Recommendation Engine"]
 project_images: ["images/projects/project-details-image-three.png", "images/projects/project-details-image-four.png"]
 ---
 
-##### GO TO [GITHUB](https://github.com/yejiseoung/Starbucks)
+##### GO TO [GITHUB](https://github.com/zoeyejiseoung/Starbucks)
 
 
 The main goal of the project was to `build a recommendation model` that could guide customers to an appropriate offer. 

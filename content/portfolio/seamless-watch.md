@@ -7,7 +7,7 @@ category: ["Regression, LightGBM"]
 project_images: ["images/projects/tmdb_target.png", "images/projects/tmdb_p2.png"]
 ---
 
-GO TO [GITHUB](https://github.com/yejiseoung/TMDB)
+##### GO TO [GITHUB](https://github.com/zoeyejiseoung/TMDB)
 
 
 Spending a lot of resources on creating a movie does not gaurantee a lot of revenue generated from the movie release. Even though it costed 200 million dollars to create "Mulan", it only made 70 million dollars. The cost for making "Rocky" was 1 million dollars, but box office proceeds were in 117.2 million dollars. Then, how can we predict movie revenue?

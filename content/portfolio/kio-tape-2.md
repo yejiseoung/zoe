@@ -7,7 +7,7 @@ category: ["Classification, Imbalanced, GBM, Model Deployment"]
 project_images: ["images/projects/project-details-image-one.png", "images/projects/project-details-image-two.png"]
 ---
 
-##### GO TO [GITHUB](https://github.com/yejiseoung/CreditCard_Churn) 
+##### GO TO [GITHUB](https://github.com/zoeyejiseoung/CreditCard_Churn) 
 
 ##### Overview
 `Customer Churn (customer attrition)` is the most challenging problem for businesses such as credit card and telecommunication companies. Using machine learning models to predict churn outcomes would help improve businesses and prevent companies from losing customers. 
