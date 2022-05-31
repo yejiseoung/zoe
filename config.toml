@@ -73,9 +73,9 @@ canonifyURLs = true
     heading               = "Zoe Yeji Seoung"
     tagline               = "Data Scientist | Data Analyst"
     primary_button        = "Github"
-    primary_button_url    = "https://github.com/yejiseoung"
+    primary_button_url    = "https://github.com/zoeyejiseoung"
     secondary_button      = "LinkedIn"
-    secondary_button_url  = "https://www.linkedin.com/in/yeji-seoung-ab3534217/"
+    secondary_button_url  = "https://www.linkedin.com/in/zoeyeji-seoung31/"
 
   [params.portfolio]
     enable    = true
@@ -102,10 +102,10 @@ canonifyURLs = true
         title   = "Contact"
         [[params.footer.sitemap.link]]
           name = "Github"
-          url  = "https://github.com/yejiseoung"
+          url  = "https://github.com/zoeyejiseoung"
         [[params.footer.sitemap.link]]
           name = "LinkedIn"
-          url  = "https://www.linkedin.com/in/yeji-seoung-ab3534217/"
+          url  = "https://www.linkedin.com/in/zoeyeji-seoung31/"
         [[params.footer.sitemap.link]]
           name = "Medium"
           url  = "https://medium.com/@yejizoeseoung"
